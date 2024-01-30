@@ -13,20 +13,22 @@ I'm a full-stack developer fluent in **TypeScript** and **Python**.
 My aim is to continue getting better at software development. I learn fast.
 
 <p>
-   <a href="https://www.linkedin.com/in/boriks">
+   <a style="text-decoration: none;" href="https://www.linkedin.com/in/boriks">
      <img alt="linkedin" title="LinkedIn" src="https://img.shields.io/badge/CONTACT-0a66c2?style=for-the-badge&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fboriks">
   </a> 
-  <a href="https://hh.ru/resume/db5f5b82ff0cd062ec0039ed1f5059656b4563">
+  <a style="text-decoration: none;" href="https://hh.ru/resume/db5f5b82ff0cd062ec0039ed1f5059656b4563">
      <img alt="hh.ru" title="hh.ru" src="https://custom-icon-badges.demolab.com/badge/-RESUMÉ-red?style=for-the-badge&logo=hhru&color=f0f4fe"/>
   </a> 
-  <a href="mailto:boris_adaev@proton.me">
+  <a style="text-decoration: none;" href="mailto:boris_adaev@proton.me">
      <img alt="email" title="Email" src="https://custom-icon-badges.demolab.com/badge/-boris__adaev@proton.me-eeeeee?style=for-the-badge&logo=mention&logoColor=333333"/>
   </a>
-   <img alt="location" title="Location" src="https://custom-icon-badges.demolab.com/badge/Moscow-RU-0a66c2?style=for-the-badge&logo=location&logoColor=white"/>
+  <a href="#" style="text-decoration: none;">
+    <img alt="location" title="Location" src="https://custom-icon-badges.demolab.com/badge/Moscow-RU-0a66c2?style=for-the-badge&logo=location&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-### Tools & Skills
+## Tools & Skills
 
-![](media/skills.png)
+![tools and skills](media/skills.png)
