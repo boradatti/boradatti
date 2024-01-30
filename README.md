@@ -21,6 +21,4 @@ My aim is to continue getting better at software development. I learn fast.
 
 ---
 
-## Tools & Skills
-
 ![tools and skills](media/skills.png)
