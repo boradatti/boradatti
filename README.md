@@ -12,7 +12,7 @@ I'm a full-stack developer fluent in **TypeScript** and **Python**.
 
 My aim is to continue getting better at software development. I learn fast.
 
-<p>
+<p align="left">
    <a style="text-decoration: none;" href="https://www.linkedin.com/in/boriks">
      <img alt="linkedin" title="LinkedIn" src="https://img.shields.io/badge/CONTACT-0a66c2?style=for-the-badge&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fboriks">
   </a> 
